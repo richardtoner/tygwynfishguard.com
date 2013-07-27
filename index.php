@@ -15,7 +15,7 @@
 	</head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
-			<h1>Ty Gwyn</h1>
+			<h1><a href="/">Ty Gwyn</a></h1>
 			<ul class="nav">
 				<li><a href="the-cottage">The Cottage</a></li>
 				<li><a href="gallery">Gallery</a></li>

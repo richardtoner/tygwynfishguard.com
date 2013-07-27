@@ -17,7 +17,7 @@
 		<div class="navbar navbar-fixed-top container">
 			<h1>Ty Gwyn</h1>
 			<ul class="nav">
-				<li><a href="the-cottage"	>The Cottage</a></li>
+				<li><a href="the-cottage">The Cottage</a></li>
 				<li><a href="gallery">Gallery</a></li>
 				<li><a href="things-to-do">Things to Do</a></li>
 				<li><a href="prices-availability">Prices &amp; Availability</a></li>
@@ -29,6 +29,23 @@
 			<img title="The front of Ty Gwyn holiday cottage" src="assets/homepage_hero.jpg" alt="The wonderful white-painted facade of the Ty Gwyn holiday cottage in Fishguard" />
 			<hr />
 			<p class="lead">Ty Gwyn is a very attractive, traditional stone cottage which has been renovated to a high standard with oak flooring, beams, comfortable sofas and a woodburner. It is conveniently situated on a quiet residential street a level walk from Fishguard town centre with its shops, restaurants and pubs. There is on-street parking for two cars outside. The fitted kitchen/diner leads out via a rear porch to a lovely split level garden surrounded by wooden fencing. The Pembrokeshire Coastal Path is easily accessible whilst a short downhill walk will take you to Fishguard's picturesque harbour.</p>
+			<hr />
+			<div class="row footer">
+				<div class="span6">
+					<img title="" src="assets/visit_wales_certification_small.jpg" alt="" />
+					<img title="" src="assets/visit_wales_walkers.jpg" alt="" />
+					<img title="" src="assets/visit_wales_cyclists.jpg" alt="" />
+				</div>
+				<div class="span6">
+					<address>
+						<strong>Ty Gwyn</strong><br />
+						Hottipass Street, Fishguard<br />
+						Pembrokeshire, SA65 9LJ, Wales<br />
+						<i class="icon-phone"></i> (+44) 07964 612941<br />
+						<i class="icon-envelope"></i> <a href="mailto:tygwynfishguard@gmail.com">tygwynfishguard@gmail.com</a>
+					</address>
+				</div>
+			</div>
 		</div>
 		<script src="js/jquery-1.10.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>

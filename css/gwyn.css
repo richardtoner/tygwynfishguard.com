@@ -1,5 +1,5 @@
 body {
-	padding-top:		120px
+	padding-top:		125px
 }
 
 .container {
@@ -44,4 +44,22 @@ h1 {
 
 .lead {
 	text-align:			justify;
+}
+
+.footer img {
+	height:				100px;
+}
+
+.footer address {
+	text-align:			right;
+}
+
+.icon-phone {
+    margin:				0px 2px 1px 3px;
+    height:				6px;
+    width:				5px;
+    border:				solid 2px #333;
+    border-bottom-width:5px;
+    border-radius:		2px;
+    background:			none;
 }

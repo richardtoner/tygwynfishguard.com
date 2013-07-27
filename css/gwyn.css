@@ -15,10 +15,6 @@ h1 {
 	margin:				20px 0;
 }
 
-.lead {
-	text-align:			justify;
-}
-
 .navbar .nav li {
 	font-family:		sans-serif;
 	width: 				0%;
@@ -31,4 +27,21 @@ h1 {
 .navbar .nav li a {
 	color:				#343434;
 	border:				none;
+	border-bottom:		5px	solid #ffffff;
+}
+
+.navbar .nav li a:first-child {
+	border-radius:		0;
+}
+
+.navbar .nav li a:last-child {
+	border-radius:		0;
+}
+
+.navbar .nav li a:hover {
+	border-bottom:		5px	solid #343434;
+}
+
+.lead {
+	text-align:			justify;
 }

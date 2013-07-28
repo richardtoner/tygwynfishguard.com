@@ -51,6 +51,10 @@ h1 a:hover {
 	border-bottom:		5px	solid #343434;
 }
 
+.jumbotron {
+	 margin: 0;
+}
+
 .lead {
 	text-align:			justify;
 }

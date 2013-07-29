@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
-			<h1><a href="/">Ty Gwyn</a></h1>
+			<h1>Ty Gwyn</h1>
 		</div>
 		<div class="container">
 			<!-- Start page-specific content -->

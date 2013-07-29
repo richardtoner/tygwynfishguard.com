@@ -26,11 +26,17 @@ h1 a:hover {
 
 .navbar .nav li {
 	font-family:		sans-serif;
-	width: 				0%;
 	font-size:			12px;
 	letter-spacing:		1px;
 	text-transform:		uppercase;
 	font-weight:		600;
+}
+
+/* Change the display type of nav items when the navbar is collapsed */
+@media (max-width: 979px) {
+	.navbar .nav li {
+		display:		block;
+	}
 }
 
 .navbar .nav li a {

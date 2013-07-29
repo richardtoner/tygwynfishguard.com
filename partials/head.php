@@ -16,14 +16,21 @@
 	</head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
+			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
 			<h1><a href="/">Ty Gwyn</a></h1>
-			<ul class="nav">
-				<li><a href="the-cottage">The Cottage</a></li>
-				<li><a href="gallery">Gallery</a></li>
-				<li><a href="things-to-do">Things to Do</a></li>
-				<li><a href="prices-availability">Prices &amp; Availability</a></li>
-				<li><a href="testimonials">Testimonials</a></li>
-				<li><a href="contact-us">Contact Us</a></li>
-			</ul>
+			<div class="nav-collapse collapse">
+				<ul class="nav">
+					<li><a href="the-cottage">The Cottage</a></li>
+					<li><a href="gallery">Gallery</a></li>
+					<li><a href="things-to-do">Things to Do</a></li>
+					<li><a href="prices-availability">Prices &amp; Availability</a></li>
+					<li><a href="testimonials">Testimonials</a></li>
+					<li><a href="contact-us">Contact Us</a></li>
+				</ul>
+			</div>
 		</div>
 		<div class="container">

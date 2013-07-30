@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Ty Gwyn | A Beautiful Holiday Cottage in Fishguard</title>
+		<title>Ty Gwyn | A Beautiful 3 Bedroom Holiday Cottage in Fishguard</title>
 		<meta charset="UTF-8" />
-		<!-- TODO: Remove robots meta tag when site is launched and meta data is prepared -->
-		<meta name="robots" content="noindex" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<meta name="author" content="Richard Toner" />
+		<meta name="description" content="Ty Gwyn is a high quality three bedroom cottage based in Fishguard, a small market town in Pembrokeshire ideally located to explore this beautiful part of the United Kingdom." />
+		<meta name="keywords" content="ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals, 3 bedrooms" />
+		<meta name="author" content="Richard Toner - www.richardtoner.com" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link href="css/bootstrap.css" rel="stylesheet" media="screen" />
 		<link href="css/bootstrap-responsive.css" rel="stylesheet" media="screen" />
 		<link href="css/bootstrap-justified-nav.css" rel="stylesheet" media="screen" />
 		<link href="css/gwyn.css" rel="stylesheet" media="screen" />
+		<?php include_once("partials/google-analytics.php") ?>
 	</head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
@@ -29,7 +28,7 @@
 				<img title="The front of Ty Gwyn holiday cottage" src="assets/homepage_hero.jpg" alt="The wonderful white-painted facade of the Ty Gwyn holiday cottage in Fishguard" />
 			</div>
 			<hr />
-			<p class="lead">Ty Gwyn is a very attractive, traditional stone cottage which has been renovated to a high standard with oak flooring, beams, comfortable sofas and a woodburner. It is conveniently situated on a quiet residential street a level walk from Fishguard town centre with its shops, restaurants and pubs. There is on-street parking for two cars outside. The fitted kitchen/diner leads out via a rear porch to a lovely split level garden surrounded by wooden fencing. The Pembrokeshire Coastal Path is easily accessible whilst a short downhill walk will take you to Fishguard's picturesque harbour.</p>
+			<p class="lead">Ty Gwyn is a very attractive, traditional stone cottage which has been renovated to a high standard with oak flooring, beams, comfortable sofas and a woodburner. It is a 3 bedroom property conveniently situated on a quiet residential street a level walk from Fishguard town centre with its shops, restaurants and pubs. There is on-street parking for two cars outside. The fitted kitchen/diner leads out via a rear porch to a lovely split level garden surrounded by wooden fencing. The Pembrokeshire Coastal Path is easily accessible whilst a short downhill walk will take you to Fishguard's picturesque harbour.</p>
 			<hr />
 			<div class="row">
 				<div class="span6">

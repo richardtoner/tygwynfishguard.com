@@ -17,9 +17,12 @@ body {
 	max-width:			940px;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'centurygothic';
+}
+
 h1 {
 	color: 				#343434;
-	font-family:		'centurygothic';
 	font-size:			55px;
 	text-transform:		uppercase;
 	text-align:			center;

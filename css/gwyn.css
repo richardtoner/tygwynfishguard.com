@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'centurygothic';
+    src: url('fonts/centurygothic.eot');
+    src: url('fonts/centurygothic.woff') format('woff'),
+    	url('fonts/centurygothic.ttf') format('truetype'),
+    	url('fonts/centurygothic.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
 body {
 	padding-top:		125px
 }

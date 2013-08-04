@@ -5,7 +5,7 @@
 				<strong>Unfinished business!</strong> This page needs some time and love.
 			</div>
 			<h2>The Cottage</h2>
-			<div class="row">
+			<div class="row-fluid">
 				<div class="span7">
 					<h3>Bedrooms</h3> 
 					<p>Bedrooms 1 and 2 both have double beds whilst bedroom three is a quirky split level crogloft equipped with two single beds. Whilst the twin beds can accommodate adults, the upper level has limited headroom and this bedroom is very popular with children.</p>
@@ -16,7 +16,7 @@
 					<img src="assets/bedroom_1.jpg" />
 				</div>
 			</div>
-			<div class="row">
+			<div class="row-fluid">
 				<div class="span5">
 					<img src="assets/kitchen.jpg" />
 				</div>
@@ -28,7 +28,7 @@
 					<p>Rear porch with Velux window, access to rear garden where there is a second upright fridge/freezer (useful for drinks), ironing board and iron.</p>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row-fluid">
 				<div class="span7">
 					<h3>Living Rooms</h3>
 					<p>The large living room is very comfortable with two large sofas, chaise, woodburner, plasma TV with Sky, DVD player and oak flooring. A selection of books and childrens games are contained within the oak sideboard. It will easily seat six in comfort.</p>

@@ -1,7 +1,7 @@
 <?php include("partials/head.php"); ?>
 			<!-- Start page-specific content -->
 			<h2>Contact Us</h2>
-			<div class="row">
+			<div class="row-fluid">
 				<div class="span6">
 					<p>If you would like to make a booking enquiry, or have any questions regarding Ty Gwyn, then please feel free to send us an email or give us a call using the information provided below:</p>
 					<hr />

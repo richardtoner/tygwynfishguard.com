@@ -12,6 +12,7 @@
 		<link href="css/bootstrap.css" rel="stylesheet" media="screen" />
 		<link href="css/bootstrap-responsive.css" rel="stylesheet" media="screen" />
 		<link href="css/bootstrap-justified-nav.css" rel="stylesheet" media="screen" />
+		<link href="css/blueimp-gallery.min.css" rel="stylesheet" media="screen" />
 		<link href="css/gwyn.css" rel="stylesheet" media="screen" />
 		<?php include_once("partials/google-analytics.php") ?>
 	</head>

@@ -83,6 +83,10 @@ p {
 	text-align:			justify;
 }
 
+.gallery-image {
+	margin-bottom: 20px;
+}
+
 .footer img {
 	height:				100px;
 }

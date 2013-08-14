@@ -9,12 +9,12 @@
 }
 
 body {
-	padding-top:		125px
+	padding-top: 125px
 }
 
 .container {
-	background-color:	#ffffff;
-	max-width:			940px;
+	background-color: #ffffff;
+	max-width: 940px;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -22,53 +22,53 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-	color: 				#343434;
-	font-size:			55px;
-	text-transform:		uppercase;
-	text-align:			center;
-	margin:				20px 0;
+	color: #343434;
+	font-size: 55px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 20px 0;
 }
 
 h1 a {
-	color:				#343434;
+	color: #343434;
 }
 
 h1 a:hover {
-	color:				#343434;
-	text-decoration:	none;
+	color: #343434;
+	text-decoration: none;
 }
 
 .navbar .nav li {
-	font-family:		sans-serif;
-	font-size:			12px;
-	letter-spacing:		1px;
-	text-transform:		uppercase;
-	font-weight:		600;
+	font-family: sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: 600;
 }
 
 /* Change the display type of nav items when the navbar is collapsed */
 @media (max-width: 979px) {
 	.navbar .nav li {
-		display:		block;
+		display: block;
 	}
 }
 
 .navbar .nav li a {
-	color:				#343434;
-	border:				none;
-	border-bottom:		5px	solid #ffffff;
+	color: #343434;
+	border: none;
+	border-bottom: 5px	solid #ffffff;
 }
 
 .navbar .nav li a:first-child {
-	border-radius:		0;
+	border-radius: 0;
 }
 
 .navbar .nav li a:last-child {
-	border-radius:		0;
+	border-radius: 0;
 }
 
 .navbar .nav li a:hover {
-	border-bottom:		5px	solid #343434;
+	border-bottom: 5px	solid #343434;
 }
 
 .jumbotron {
@@ -76,11 +76,11 @@ h1 a:hover {
 }
 
 .lead {
-	text-align:			justify;
+	text-align: justify;
 }
 
 p {
-	text-align:			justify;
+	text-align: justify;
 }
 
 .gallery-image {
@@ -88,19 +88,19 @@ p {
 }
 
 .footer img {
-	height:				100px;
+	height: 100px;
 }
 
 .footer address {
-	text-align:			right;
+	text-align: right;
 }
 
 .icon-phone {
-    margin:				0px 2px 1px 3px;
-    height:				6px;
-    width:				5px;
-    border:				solid 2px #333;
-    border-bottom-width:5px;
-    border-radius:		2px;
-    background:			none;
+    margin: 0px 2px 1px 3px;
+    height: 6px;
+    width: 5px;
+    border: solid 2px #333;
+    border-bottom-width: 5px;
+    border-radius: 2px;
+    background: none;
 }

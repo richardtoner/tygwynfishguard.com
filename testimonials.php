@@ -31,16 +31,25 @@
 				array("comments"=>"Cottage is beautiful. Had some lovely walks and enjoyed relaxing in the big back garden. 10 out of 10.","author"=>"The Davies family, Caerphilly"),
 				array("comments"=>"Our first visit to Pembrokeshire. From this lovely cottage we did a lot! Swimming, cycling, walking, coasteering, boat trip, wildlife etc etc. Every day an outdoor adventure and lovely evenings, with cosy Ty Gwyn to come back to.","author"=>"The Jackson and Wheatle families, Kendal, Cumbria"),
 			);
-			foreach ($testimonials as $testimonial):
 			?>
-			<blockquote>
-				<p><?=$testimonial['comments']?></p>
-				<small><?=$testimonial['author']?></small>
-			</blockquote>
-			<?php
-			endforeach;
-			?>
-			
+			<h2>Testimonials</h2>
+			<div class="row-fluid">
+				<div class="span6">
+					<p class="lead">Want to know what some of our guests think of Ty Gwyn? Our guestbook is a treasure trove of lovely comments and praise for our cottage. Here are a few of our favourites:</p>
+				</div>
+				<div class="span6">
+					<?php
+					foreach ($testimonials as $testimonial):
+					?>
+					<blockquote>
+						<p><?=$testimonial['comments']?></p>
+						<small><?=$testimonial['author']?></small>
+					</blockquote>
+					<?php
+					endforeach;
+					?>
+				</div>
+			</div>
 			
 			<!-- End page-specific content -->
 <?php include("partials/foot.php"); ?>

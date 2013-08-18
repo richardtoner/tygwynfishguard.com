@@ -35,7 +35,26 @@
 			<h2>Testimonials</h2>
 			<div class="row-fluid">
 				<div class="span6">
-					<p class="lead">Want to know what some of our guests think of Ty Gwyn? Our guestbook is a treasure trove of lovely comments and praise for our cottage. Here are a few of our favourites:</p>
+					<p class="lead">Want to know what our guests think of Ty Gwyn?</p>
+					<p>Our guestbook is a treasure trove of lovely comments and praise for our cottage. We've included a few of our favourites on this page to share with you.</p>
+					<hr />
+					<img title="Fire up the woodburner and relax with a glass of red wine for a perfect Winter's evening!" alt="Ty Gwyn - a perfect place to relax with a glass of wine" class="img-rounded" src="/assets/wine_closeup.jpg" />
+					<hr />
+					<p class="lead">Stayed with us?</p>
+					<p>If you have stayed at Ty Gwyn we would love to hear how your stay was! Even if you've already left a comment in our guestbook, we are always happy to hear from our guests and welcome any feedback.</p>
+					<p>You can let us know what you think in the following ways:</p>
+					<ul>
+						<li>
+							<a title="Ty Gwyn listed on Trip Advisor" href="http://www.tripadvisor.co.uk/VacationRentalReview-g316015-d4500184-Ty_Gwyn_Fishguard-Fishguard_Pembrokeshire_Wales.html">Click here to leave us a review on Trip Advisor</a>
+						</li>
+						<li>
+							<a title="Click here to email us" href="mailto:tygwynfishguard@gmail.com">Click here to send us an email</a>
+						</li>
+					</ul>
+					<hr />
+					<img title="Walkers are welcome to stay at Ty Gwyn" src="assets/visit_wales_walkers.jpg" alt="Welsh Tourism Board walkers welcome" />
+					<img title="Ty Gwyn has been awarded a 4-star rating by the Welsh Tourism board" src="assets/visit_wales_certification_small.jpg" alt="Welsh Tourism Board 4 Star Rating Certificate" />
+					<img title="Cyclists are welcome to stay at Ty Gwyn" src="assets/visit_wales_cyclists.jpg" alt="Welsh Tourism Board cyclists welcome" />
 				</div>
 				<div class="span6">
 					<?php

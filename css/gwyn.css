@@ -96,6 +96,10 @@ p {
 	padding: 0 5px;
 }
 
+blockquote {
+	margin: 0 0 30px;
+}
+
 .footer img {
 	height: 100px;
 }

@@ -87,6 +87,15 @@ p {
 	margin-bottom: 20px;
 }
 
+.certificate-images {
+	text-align: center;
+}
+
+.certificate-images img {
+	width: 100px;
+	padding: 0 5px;
+}
+
 .footer img {
 	height: 100px;
 }

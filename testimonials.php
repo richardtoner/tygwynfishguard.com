@@ -1,9 +1,5 @@
 <?php include("partials/head.php"); ?>
 			<!-- Start page-specific content -->
-			<div class="alert alert-error">
-				<button type="button" class="close" data-dismiss="alert">&times;</button>
-				<strong>Unfinished business!</strong> This page needs some time and love.
-			</div>
 			<?php
 			$testimonials = array(
 				array("comments"=>"We’ve had a really lovely time here! Everything you need is in this house!","author"=>"The M family, Romford, Essex"),
@@ -52,9 +48,21 @@
 						</li>
 					</ul>
 					<hr />
-					<img title="Walkers are welcome to stay at Ty Gwyn" src="assets/visit_wales_walkers.jpg" alt="Welsh Tourism Board walkers welcome" />
-					<img title="Ty Gwyn has been awarded a 4-star rating by the Welsh Tourism board" src="assets/visit_wales_certification_small.jpg" alt="Welsh Tourism Board 4 Star Rating Certificate" />
-					<img title="Cyclists are welcome to stay at Ty Gwyn" src="assets/visit_wales_cyclists.jpg" alt="Welsh Tourism Board cyclists welcome" />
+					<img title="Some of the traditional kitchenware in the cottage" alt="Traditional mugs with a fruit design" class="img-rounded" src="/assets/cups_closeup.jpg" />
+					<hr />
+					<p class="lead">4 star grading from Visit Wales</p>
+					<p>
+						We have been recognised by 
+						<a title="Ty Gwyn listed on Visit Wales" href="http://www.visitwales.com/accommodation-search/accommodation-search-results/accommodation-search-details?id=1468338&location=Wales&industry=None&arrivalDate=12%2F07%2F2013+00%3A00%3A00&numberOfNights=1&numberOfRooms=1&numberOfAdults1=1&numberOfChildren1=0&numberOfAdults2=0&numberOfChildren2=0&numberOfAdults3=0&numberOfChildren3=0&radius=10&designators=&filterIds=&city=&price=&latitude=51.99263&longitude=-4.972877">Visit Wales</a> 
+						as a self-catered accommodation of very high quality and awarded a 4 star rating.
+						Ty Gwyn has also been recognised as an ideal accommodation choice for walkers and cyclists.
+					</p>
+					<div class="certificate-images">
+						<img title="Walkers are welcome to stay at Ty Gwyn" src="assets/visit_wales_walkers.jpg" alt="Visit Wales walkers welcome award" />
+						<img title="Ty Gwyn has been awarded a 4-star grading by the Welsh Tourism board" src="assets/visit_wales_certification_small.jpg" alt="Visit Wales 4 Star Grading Certificate" />
+						<img title="Cyclists are welcome to stay at Ty Gwyn" src="assets/visit_wales_cyclists.jpg" alt="Visit Wales cyclists welcome award" />
+					</div>
+					<hr />
 				</div>
 				<div class="span6">
 					<?php

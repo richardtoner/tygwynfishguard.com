@@ -1,43 +1,39 @@
 <?php include("partials/head.php"); ?>
 			<!-- Start page-specific content -->
-			<div class="alert alert-error">
-				<button type="button" class="close" data-dismiss="alert">&times;</button>
-				<strong>Unfinished business!</strong> This page needs some time and love.
-			</div>
+			<h2>Prices &amp; Availability</h2>
 			<div class="row-fluid">
 				<div class="span8">
-			<table class="table table-bordered">
-				<thead>
-					<tr>
-						<th>Rental Period</th>
-						<th>Price Per Week</th>
-						<th>Min. Stay (Nights)</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>20 July 2013 - 6 September 2013</td>
-						<td>GBP 595.00</td>
-						<td>7</td>
-					</tr>
-					<tr>
-						<td>7 September 2013 - 1 November 2013</td>
-						<td>GBP 420.00</td>
-						<td>3</td>
-					</tr>
-					<tr>
-						<td>2 November 2013 - 20 December 2013</td>
-						<td>GBP 350.00</td>
-						<td>3</td>
-					</tr>
-					<tr>
-						<td>21 December 2013 - 3 January 2014</td>
-						<td>GBP 595.00</td>
-						<td>7</td>
-					</tr>
-				</tbody>
-			</table>
-			
+					<table class="table table-bordered">
+						<thead>
+							<tr>
+								<th>Rental Period</th>
+								<th>Price Per Week</th>
+								<th>Min. Stay (Nights)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>20 July 2013 - 6 September 2013</td>
+								<td>GBP 595.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>7 September 2013 - 1 November 2013</td>
+								<td>GBP 420.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>2 November 2013 - 20 December 2013</td>
+								<td>GBP 350.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>21 December 2013 - 3 January 2014</td>
+								<td>GBP 595.00</td>
+								<td>7</td>
+							</tr>
+						</tbody>
+					</table>
 					<p>To check availability please contact the owner using the information provided below:</p>
 					<hr />
 					<address>
@@ -59,7 +55,7 @@
 					</ul>
 				</div>
 				<div class="span4">
-					<img src="assets/captains_wheel_closeup.jpg" />
+					<img title="The woodburner is perfect for a cosy Winter's night in" alt="A traditional woodburner in Ty Gwyn cottage" class="img-rounded" src="assets/woodburner_closeup.jpg" />
 				</div>
 			</div>
 			<!-- End page-specific content -->

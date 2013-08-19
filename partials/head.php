@@ -14,8 +14,12 @@
 		<link href="css/bootstrap-justified-nav.css" rel="stylesheet" media="screen" />
 		<link href="css/blueimp-gallery.min.css" rel="stylesheet" media="screen" />
 		<link href="css/gwyn.css" rel="stylesheet" media="screen" />
-		<?php include_once("partials/google-analytics.php") ?>
-	</head>
+		<?php 
+			if ($_SERVER['HTTP_HOST'] == 'tygwynfishguard.com') {
+				include_once("partials/google-analytics.php"); 
+			}
+		?>
+	<head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
 			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">

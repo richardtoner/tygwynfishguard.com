@@ -30,7 +30,7 @@
 			<h1><a href="/">Ty Gwyn</a></h1>
 			<div class="nav-collapse collapse">
 				<ul class="nav">
-					<li><a href="the-cottage">The Cottage</a></li>
+					<li><a href="the-cottage">The Cottage &amp; Garden</a></li>
 					<li><a href="gallery">Gallery</a></li>
 					<li><a href="things-to-do">Things to Do</a></li>
 					<li><a href="prices-availability">Prices &amp; Availability</a></li>

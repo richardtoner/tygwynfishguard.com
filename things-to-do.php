@@ -119,43 +119,6 @@
 				<li>Fishguard and Goodwick Rugby Club (near the Post Office)– exactly as it says but a good 15 min walk.  Great if you want to watch an international!  Cheap beer during matches.  Well worth a visit – non members are welcome.</li>
 				<li>The Ship Inn – Lower Town. Turn right from the cottage, first right and right at the end and follow the long hill down.  (Buses on the hour back up the hill – mine host Richard has the time-table).  Full of characters, historic and a firm favourite not to be missed.</li>
 			</ul>
-			<h3>Where To Eat</h3>
-			<p>Generally speaking local produce is of a very high quality and there is nothing nicer than buying simple, fresh, home-grown food from the many farm shops or local markets and eating at the cottage.   Pub grub in Fishguard itself is sadly pretty average.</p>
-			<p>However, if you want to eat out, here’s a small selection of local places to eat:</p>
-			<h4>Fishguard:</h4>
-			<ul>
-				<li>Cresswells Café – Next to the main Post Office.   Good for cooked breakfasts and café food. From the square bear right and up the hill.  It’s situated just past the brow of the hill, a couple of doors from the rugby club, on the left.   If driving, park in the car park on the left just before Cresswells.</li>
-				<li>The Parrog Café  - Another option if you fancy a good cooked breakfast try the Parrog situated next to Tesco directly opposite the Stena terminal.</li>
-				<li>Taj Mahal – Just off Market Square if you are after a curry.  Busy at weekends.  Takeaway bookings also.   Tel : 01348 872156.</li>
-				<li>Something’s Cooking – Great little award winning fish and chip shop about ten mins drive on the road to Haverfordwest.  Eat in or take away – fantastic quality. Highly recommended, especially on the way home after a day out touring.  Telephone bookings taken. Tel :  01348 840621.</li>
-				<li>Pendre – Pub on the right on the outskirts as you drive out of town.   Good for Sunday lunch.</li>
-				<li>Cake shop in Market Square has a handy café at the back, which is OK.</li>
-			</ul>
-			<h4>Goodwick:</h4>
-			<ul>
-				<li>The Hope & Anchor, Goodwick.  – New chef and highly recommended.  Service a bit slow but food excellent and not too expensive.  Recently refurbished to a high standard.  No smoking restaurant upstairs and a la carte downstairs.   Very popular with locals which speaks for itself! Tel : 01348 872314.</li>
-			</ul>
-			<h4>Llanychar:</h4>
-			<ul>
-				<li>The Bridge Inn, Llanychar, known locally as The Bont. Leave the cottage and drive up the hill away from Fishguard.  Proceed through country lanes for about two miles and the first village you will come to is Llanychar.    Nice for good bar food type evening meals or Sunday lunch.   Booking advised, especially Sundays which are popular: 01348 872545</li>
-			</ul>
-			<h4>Mathry:</h4>
-			<ul>
-				<li>The Farmer’s Arms, Mathry – Very good pub grub, if you fancy a short drive.  Mathry is on the hill on your right half way between Fishguard and St Davids, about 20 mins from the cottage.  Drive along the Parrog and turn left at the mini roundabout S/P ‘St David’s A487’.  Special two for one deals on a Friday.</li>
-			</ul>
-			<h4>Porthgain:</h4>
-			<ul>
-				<li>The Sloop – Drive across the Parrog towards Goodwick and turn left at the mini roundabout signposted ‘St David’s’.   Keep driving for about eight miles and after driving through a village called ‘Square and Compass’ keep an eye out for a right hand turn ‘Porthgain’.  Turn here and drive to the end of the road, crossing one crossroads. It’s really pretty, with a few art galleries and is the working harbour for the area so if you are lucky, you might see the day’s catch come in.  The Sloop is an old fisherman’s pub, rustic décor and full of character.  The food is top quality pub food, based on local fare and daily fish catches but not cheap.    Don’t miss it - highly recommended for dinner or just a drink.   Tel : 01348 831449.</li>
-			</ul>
-			<h4>St David’s:</h4>
-			<ul>
-				<li>The Farmer’s Arms is excellent for good pub grub and has a nice beer garden to for sitting outside.</li>
-				<li>The Sampler is a lovely little tea and cake shop, just to the right of The Pebbles.</li>
-			</ul>
-			<h4>Newport:</h4>
-			<ul>
-				<li>Cnapan is a highly regarded restaurant in West Wales if you want something a little special.  It’s not cheap and we have not been there personally but it has been recommended to us on several occasions.   It’s situated in Newport about a half an hour drive away.   Leave the cottage facing the Square and at the end of the road turn right, then right again towards Cardigan.   You will pass through several small villages and just after Dinas you will arrive in Newport.   Cnapan is an old Georgian house situated on the left hand side as you leave the village of Newport.   Tel : 01239 820575</li>
-			</ul>
 			<h3>Places To Go</h3>
 			<p>You are fortunately situated in one of the loveliest counties in Britain and there are numerous places to visit within walking or driving distance.  Just a brief selection is:</p>
 			<p>Lower Town.  (See ‘Ship Inn’ overleaf.) If you are feeling energetic this is a lovely short walk with pretty views.   Turn right out of Ty Gwyn, first right and right again at the end.   Go down the steep hill to the harbour at Lower Town.  Stop at the historic Ship Inn for a drink with mine hosts Richard and Jan.   It’s like a cosy front room.  See photos on the wall of Gregory Peck when Moby Dick was filmed there and also Richard Burton whilst filming Under Milkwood.  If you come back the same way it’s a real killer, so I suggest following the water all the way around until you see a Tarmac slope on the left – you can’t miss it as you can’t walk any further.  You then come up the Slade which brings you back to the centre of Fishguard.  It’s still steep but a bit more stretched out and not nearly as bad as the main road.</p>

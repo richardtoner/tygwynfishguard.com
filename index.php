@@ -11,7 +11,7 @@
 					<img class="img-circle" src="assets/spotlights/lounge_spotlight.jpg" />
 					<h3>The Cottage</h3>
 					<p class="text-center">[Some call to action text required]</p>
-					<p class="text-center"><a class="btn" href="the-cottage">Read more »</a></p>
+					<p class="text-center"><a class="btn" href="the-cottage-and-garden">Read more »</a></p>
 				</div>
 				<div class="span4">
 					<img class="img-circle" src="assets/spotlights/strumble_head_spotlight.jpg" />

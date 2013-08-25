@@ -4,7 +4,7 @@
 				<button type="button" class="close" data-dismiss="alert">&times;</button>
 				<strong>Unfinished business!</strong> This page needs some time and love.
 			</div>
-			<h2>The Cottage</h2>
+			<h2>The Cottage &amp; Garden</h2>
 			<p class="lead">[A little description about The Cottage]</p>
 			<div id="gallery-images" class="row-fluid">
 				<div class="row-fluid">

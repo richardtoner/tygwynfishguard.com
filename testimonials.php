@@ -34,7 +34,7 @@
 					<p class="lead">Want to know what our guests think of Ty Gwyn?</p>
 					<p>Our guestbook is a treasure trove of lovely comments and praise for our cottage. We've included a few of our favourites on this page to share with you.</p>
 					<hr />
-					<img title="Fire up the woodburner and relax with a glass of red wine for a perfect Winter's evening!" alt="A bottle of Campo Viejo and a wine glass" class="img-rounded" src="/assets/wine_closeup.jpg" />
+					<img title="Fire up the woodburner and relax with a glass of red wine for a perfect Winter's evening!" alt="A bottle of Campo Viejo and a wine glass" class="img-rounded" src="assets/wine_closeup.jpg" />
 					<hr />
 					<p class="lead">4 star grading from Visit Wales</p>
 					<p>
@@ -49,7 +49,7 @@
 						<img title="Cyclists are welcome to stay at Ty Gwyn" src="assets/visit_wales_cyclists.jpg" alt="Visit Wales cyclists welcome award" />
 					</div>
 					<hr />
-					<img title="Some of the traditional kitchenware in the cottage" alt="Traditional mugs with a fruit design" class="img-rounded" src="/assets/cups_closeup.jpg" />
+					<img title="Some of the traditional kitchenware in the cottage" alt="Traditional mugs with a fruit design" class="img-rounded" src="assets/cups_closeup.jpg" />
 					<hr />
 					<p class="lead">Stayed with us?</p>
 					<p>If you have stayed at Ty Gwyn we would love to hear how your stay was! Even if you've already left a comment in our guestbook, we are always happy to hear from our guests and welcome any feedback.</p>

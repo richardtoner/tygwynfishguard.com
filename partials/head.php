@@ -22,6 +22,9 @@
 	<head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
+			<div class="visible-desktop phone">
+				<i class="icon-phone"></i> (+44) 07964 612941
+			</div>
 			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>

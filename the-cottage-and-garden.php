@@ -1,11 +1,7 @@
 <?php include("partials/head.php"); ?>
 			<!-- Start page-specific content -->
-			<div class="alert alert-error">
-				<button type="button" class="close" data-dismiss="alert">&times;</button>
-				<strong>Unfinished business!</strong> This page needs some time and love.
-			</div>
 			<h2>The Cottage &amp; Garden</h2>
-			<p class="lead">[A little description about The Cottage]</p>
+			<p class="lead">We originally bought Ty Gwyn for our own use and retirement but as so often happens, life changes and we now have a wonderful little grand daughter we want to be close to. However, the refurbishment was very much carried out with a view to living in the property and we have chosen high quality fixtures and fittings to create a real home from home, with many little touches we think guests will enjoy.</p>
 			<div id="gallery-images" class="row-fluid">
 				<div class="row-fluid">
 					<div class="span6">
@@ -55,7 +51,7 @@
 					</div>
 					<div class="span6">
 						<h3>Garden</h3>
-						<p>[Description of garden required]</p>
+						<p>The garden was a labour of love and took almost a year to create but is now a wonderful calm oasis - private, safe and sunny. Ideal for visitors with children. <span class="text-error">[More info about garden?]</span></p>
 						<div class="gallery-image">
 							<a href="assets/garden_overview.jpg" title="Garden">
 								<img class="img-rounded" src="assets/garden_overview.jpg"/>
@@ -74,7 +70,6 @@
 					</div>
 				</div>
 			</div>
-			<hr />
 			<?php include("partials/blueimp-gallery.html"); ?>
 			<!-- End page-specific content -->
 <?php include("partials/foot.php"); ?>

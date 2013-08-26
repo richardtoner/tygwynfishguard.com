@@ -9,7 +9,7 @@
 						<p>The large living room is very comfortable with two large sofas, chaise, woodburner, plasma TV with Sky, DVD player and oak flooring. A selection of books and childrens games are contained within the oak sideboard. It will easily seat six in comfort.</p>
 						<div class="gallery-image">
 							<a href="assets/cottage/lounge.jpg" title="Lounge">
-								<img class="img-rounded" src="assets/cottage/lounge.jpg"/>
+								<img alt="The lounge of Ty Gwyn" class="img-rounded" src="assets/cottage/lounge.jpg"/>
 							</a>
 						</div>
 					</div>
@@ -18,7 +18,7 @@
 						<p>Large fitted kitchen/diner equipped with electric oven, gas hob, fridge/freezer, double sink, washing machine, microwave and toaster. A large traditional farmhouse table and chairs provides a cosy space for communal dining.</p>
 						<div class="gallery-image">
 							<a href="assets/cottage/kitchen.jpg" title="Kitchen">
-								<img class="img-rounded" src="assets/cottage/kitchen.jpg"/>
+								<img alt="The kitchen of Ty Gwyn" class="img-rounded" src="assets/cottage/kitchen.jpg"/>
 							</a>
 						</div>
 					</div>
@@ -30,12 +30,12 @@
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/cottage/bedroom_1.jpg" title="Bedroom 1">
-							<img class="img-rounded" src="assets/cottage/bedroom_1.jpg"/>
+							<img alt="The main bedroom of Ty Gwyn" class="img-rounded" src="assets/cottage/bedroom_1.jpg"/>
 						</a>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/cottage/bedroom_2.jpg" title="Bedroom 2">
-							<img class="img-rounded" src="assets/cottage/bedroom_2.jpg"/>
+							<img alt="The second double bedroom of Ty Gwyn" class="img-rounded" src="assets/cottage/bedroom_2.jpg"/>
 						</a>
 					</div>
 				</div>
@@ -45,7 +45,7 @@
 						<p>Modern, tiled, main family bathroom with bath, power shower over, toilet and washbasin. There is also a new second cloakroom and wash handbasin next to the twin bedroom.</p>
 						<div class="gallery-image">
 							<a href="assets/cottage/bathroom.jpg" title="Bathroom">
-								<img class="img-rounded" src="assets/cottage/bathroom.jpg"/>
+								<img alt="The bathroom of Ty Gwyn" class="img-rounded" src="assets/cottage/bathroom.jpg"/>
 							</a>
 						</div>
 					</div>
@@ -54,7 +54,7 @@
 						<p>The garden was a labour of love and took almost a year to create but is now a wonderful calm oasis - private, safe and sunny. Ideal for visitors with children. <span class="text-error">[More info about garden?]</span></p>
 						<div class="gallery-image">
 							<a href="assets/cottage/garden_overview.jpg" title="Garden">
-								<img class="img-rounded" src="assets/cottage/garden_overview.jpg"/>
+								<img alt="View of Ty Gwyn's garden" class="img-rounded" src="assets/cottage/garden_overview.jpg"/>
 							</a>
 						</div>
 					</div>

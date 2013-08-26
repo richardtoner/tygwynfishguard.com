@@ -9,20 +9,20 @@
 			<div class="row-fluid spotlight-container">
 				<div class="span4">
 					<img class="img-circle" src="assets/spotlights/lounge_spotlight.jpg" />
-					<h3>The Cottage</h3>
-					<p class="text-center">[Some call to action text required]</p>
+					<h3>The Cottage &amp; Garden</h3>
+					<p class="text-center">Come on in! Read all about our fabulous cottage and gorgeous garden.</p>
 					<p class="text-center"><a class="btn" href="the-cottage-and-garden">Read more »</a></p>
 				</div>
 				<div class="span4">
 					<img class="img-circle" src="assets/spotlights/strumble_head_spotlight.jpg" />
 					<h3>Things to Do</h3>
-					<p class="text-center">[Some call to action text required]</p>
+					<p class="text-center">Discover all of the amazing ways you can spend your time in Pembrokeshire.</p>
 					<p class="text-center"><a class="btn" href="things-to-do">Read more »</a></p>
 				</div>
 				<div class="span4">
 					<img class="img-circle" src="assets/spotlights/map_spotlight.jpg" />
 					<h3>Contact Us</h3>
-					<p class="text-center">[Some call to action text required]</p>
+					<p class="text-center">Want to make a booking or have any questions? Come and say hello!</p>
 					<p class="text-center"><a class="btn" href="contact-us">Read more »</a></p>
 				</div>
 			</div>

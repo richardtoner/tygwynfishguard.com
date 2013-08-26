@@ -5,89 +5,89 @@
 			<div id="gallery-images" class="row-fluid">
 				<div class="row-fluid">
 					<div class="span3 gallery-image">
-						<a href="assets/outside_2.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/outside_2.jpg"/>
+						<a href="assets/cottage/outside_2.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/outside_2.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/outside.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/outside.jpg"/>
+						<a href="assets/cottage/outside.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/outside.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/garden_overview.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/garden_overview.jpg"/>
+						<a href="assets/cottage/garden_overview.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/garden_overview.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/garden_blossom_tree.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/garden_blossom_tree.jpg"/>
-						</a>
-					</div>
-				</div>
-				<div class="row-fluid">
-					<div class="span3 gallery-image">
-						<a href="assets/patio_log_store.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/patio_log_store.jpg"/>
-						</a>
-					</div>
-					<div class="span3 gallery-image">
-						<a href="assets/back_porch.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/back_porch.jpg"/>
-						</a>
-					</div>
-					<div class="span3 gallery-image">
-						<a href="assets/lounge.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/lounge.jpg"/>
-						</a>
-					</div>
-					<div class="span3 gallery-image">
-						<a href="assets/lounge_2.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/lounge_2.jpg"/>
+						<a href="assets/cottage/garden_blossom_tree.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/garden_blossom_tree.jpg"/>
 						</a>
 					</div>
 				</div>
 				<div class="row-fluid">
 					<div class="span3 gallery-image">
-						<a href="assets/woodburner.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/woodburner.jpg"/>
+						<a href="assets/cottage/patio_log_store.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/patio_log_store.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/kitchen.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/kitchen.jpg"/>
+						<a href="assets/cottage/back_porch.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/back_porch.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/kitchen_2.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/kitchen_2.jpg"/>
+						<a href="assets/cottage/lounge.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/lounge.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/bedroom_1.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/bedroom_1.jpg"/>
+						<a href="assets/cottage/lounge_2.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/lounge_2.jpg"/>
 						</a>
 					</div>
 				</div>
 				<div class="row-fluid">
 					<div class="span3 gallery-image">
-						<a href="assets/bedroom_2.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/bedroom_2.jpg"/>
+						<a href="assets/cottage/woodburner.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/woodburner.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/bedroom_3_above.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/bedroom_3_above.jpg"/>
+						<a href="assets/cottage/kitchen.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/kitchen.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/bedroom_3_below.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/bedroom_3_below.jpg"/>
+						<a href="assets/cottage/kitchen_2.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/kitchen_2.jpg"/>
 						</a>
 					</div>
 					<div class="span3 gallery-image">
-						<a href="assets/bathroom.jpg" title="">
-							<img alt="" class="img-rounded" src="assets/bathroom.jpg"/>
+						<a href="assets/cottage/bedroom_1.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/bedroom_1.jpg"/>
+						</a>
+					</div>
+				</div>
+				<div class="row-fluid">
+					<div class="span3 gallery-image">
+						<a href="assets/cottage/bedroom_2.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/bedroom_2.jpg"/>
+						</a>
+					</div>
+					<div class="span3 gallery-image">
+						<a href="assets/cottage/bedroom_3_above.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/bedroom_3_above.jpg"/>
+						</a>
+					</div>
+					<div class="span3 gallery-image">
+						<a href="assets/cottage/bedroom_3_below.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/bedroom_3_below.jpg"/>
+						</a>
+					</div>
+					<div class="span3 gallery-image">
+						<a href="assets/cottage/bathroom.jpg" title="">
+							<img alt="" class="img-rounded" src="assets/cottage/bathroom.jpg"/>
 						</a>
 					</div>
 				</div>

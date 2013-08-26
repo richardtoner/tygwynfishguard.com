@@ -1,9 +1,9 @@
 			<hr />
 			<div class="row-fluid footer">
 				<div class="span6 hidden-phone">
-					<img title="Ty Gwyn has been awarded a 4-star rating by the Welsh Tourism board" src="assets/visit_wales_certification_small.jpg" alt="Welsh Tourism Board 4 Star Rating Certificate" />
-					<img title="Walkers are welcome to stay at Ty Gwyn" src="assets/visit_wales_walkers.jpg" alt="Welsh Tourism Board walkers welcome" />
-					<img title="Cyclists are welcome to stay at Ty Gwyn" src="assets/visit_wales_cyclists.jpg" alt="Welsh Tourism Board cyclists welcome" />
+					<img title="Ty Gwyn has been awarded a 4-star rating by the Welsh Tourism board" src="assets/certificates/visit_wales_certification_small.jpg" alt="Welsh Tourism Board 4 Star Rating Certificate" />
+					<img title="Walkers are welcome to stay at Ty Gwyn" src="assets/certificates/visit_wales_walkers.jpg" alt="Welsh Tourism Board walkers welcome" />
+					<img title="Cyclists are welcome to stay at Ty Gwyn" src="assets/certificates/visit_wales_cyclists.jpg" alt="Welsh Tourism Board cyclists welcome" />
 				</div>
 				<div class="span6">
 					<address>

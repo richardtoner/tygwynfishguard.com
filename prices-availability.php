@@ -55,7 +55,7 @@
 					</ul>
 				</div>
 				<div class="span4">
-					<img title="The woodburner is perfect for a cosy Winter's night in" alt="A traditional woodburner in Ty Gwyn cottage" class="img-rounded" src="assets/woodburner_closeup.jpg" />
+					<img title="The woodburner is perfect for a cosy Winter's night in" alt="A traditional woodburner in Ty Gwyn cottage" class="img-rounded" src="assets/cottage/woodburner_closeup.jpg" />
 				</div>
 			</div>
 			<!-- End page-specific content -->

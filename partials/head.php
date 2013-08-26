@@ -11,7 +11,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link href="css/bootstrap.css" rel="stylesheet" media="screen" />
 		<link href="css/bootstrap-responsive.css" rel="stylesheet" media="screen" />
-		<link href="css/bootstrap-justified-nav.css" rel="stylesheet" media="screen" />
 		<link href="css/blueimp-gallery.min.css" rel="stylesheet" media="screen" />
 		<link href="css/gwyn.css" rel="stylesheet" media="screen" />
 		<?php 

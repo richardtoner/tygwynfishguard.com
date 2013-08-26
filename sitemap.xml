@@ -3,4 +3,28 @@
 		<loc>http://www.tygwynfishguard.com</loc>
 		<changefreq>daily</changefreq>
 	</url>
+	<url>
+		<loc>http://www.tygwynfishguard.com/the-cottage-and-garden</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://www.tygwynfishguard.com/gallery</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://www.tygwynfishguard.com/things-to-do</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://www.tygwynfishguard.com/prices-availability</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://www.tygwynfishguard.com/testimonials</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://www.tygwynfishguard.com/contact-us</loc>
+		<changefreq>daily</changefreq>
+	</url>
 </urlset>

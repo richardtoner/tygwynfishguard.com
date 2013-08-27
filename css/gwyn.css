@@ -147,6 +147,13 @@ blockquote {
 	}
 }
 
+@media (max-width: 400px) {
+	h1 {
+		font-size: 45px;
+		text-align: left;
+	}
+}
+
 /* CSS declarations for tablet-sized media screens */
 @media (max-width: 979px) {
 	.page-container {

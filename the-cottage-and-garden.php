@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "The Cottage &amp; Garden | Ty Gwyn | Holiday Cottage in West Wales";
+$meta_description = "Ty Gwyn boasts 3 bedrooms, a lovely garden, a fully equipped kitchen and a large lounge with a woodburner and Sky TV. Perfect for all times of the year to spend in stunning Pembrokeshire.";
+$meta_keywords = "3 bedrooms, garden, kitchen, living room, woodburner, sky tv, ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<h2>The Cottage &amp; Garden</h2>
 			<p class="lead">We originally bought Ty Gwyn for our own use and retirement but as so often happens, life changes and we now have a wonderful little grand daughter we want to be close to. However, the refurbishment was very much carried out with a view to living in the property and we have chosen high quality fixtures and fittings to create a real home from home, with many little touches we think guests will enjoy.</p>

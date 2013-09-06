@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "Gallery | Ty Gwyn | Holiday Cottage in West Wales";
+$meta_description = "Get a closer look at the stunning Ty Gwyn Holiday Cottage with our gallery of pictures.";
+$meta_keywords = "3 bedrooms, garden, kitchen, living room, woodburner, sky tv, ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<h2>Gallery</h2>
 			<p class="lead">Welcome to our gallery! To get a closer look at the images just click on any one of them to open the full-screen view mode.</p>

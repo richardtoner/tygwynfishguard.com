@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "Things to Do | Ty Gwyn | Holiday Cottage in West Wales";
+$meta_description = "Pembrokeshire is a haven for hikers, beachbodies, cyclists, surfers, sightseers, coasteerers and thrillseekers to name a few. Find out about all of the wonderful ways you can spend your time in West Wales.";
+$meta_keywords = "pembrokeshire, fishguard, west wales, wales, ty gwyn, beaches, st david's cathedral, oakwood, coastal path, surfing, pubs, cycling, holiday cottage";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<h2>Things to Do</h2>
 			<p class="lead">Ty Gwyn is fortunately situated in one of the loveliest counties in Britain and there are numerous places to visit within walking or driving distance.</p>

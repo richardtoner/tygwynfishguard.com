@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "Prices &amp; Availability | Ty Gwyn | Holiday Cottage in West Wales";
+$meta_description = "From as little as &pound;350 per week you can relax in our stunning holiday cottage and have the perfect base for exploring Pembrokeshire.";
+$meta_keywords = "ty gwyn, fishguard, pembrokeshire, west wales, wales, reasonable, affordable, accommodation, self-catered, holiday cottage, holiday rentals, 3 bedrooms, garden";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<h2>Prices &amp; Availability</h2>
 			<div class="row-fluid">

@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "Ty Gwyn | A Beautiful 3 Bedroom Holiday Cottage in Fishguard, West Wales";
+$meta_description = "Ty Gwyn is a high quality three bedroom cottage based in Fishguard, a small market town in Pembrokeshire ideally located to explore this beautiful part of the United Kingdom.";
+$meta_keywords = "ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals, 3 bedrooms, garden";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<div class="jumbotron">
 				<img title="The front of Ty Gwyn holiday cottage" src="assets/homepage_hero.jpg" alt="The wonderful white-painted facade of the Ty Gwyn holiday cottage in Fishguard" />

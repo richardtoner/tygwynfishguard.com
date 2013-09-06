@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "Testimonials | Ty Gwyn | Holiday Cottage in West Wales";
+$meta_description = "See what everyone has been saying about Ty Gwyn holiday cottage. With a guestbook crammed with excellent comments and rave reviews on Trip Advisor, it is easy to see what makes people fall in love with our wonderful cottage.";
+$meta_keywords = "reviews, testimonials, awards, ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals, 3 bedrooms, garden";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<?php
 			$testimonials = array(

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Ty Gwyn | A Beautiful Holiday Cottage in Fishguard</title>
+		<title><?=$page_title;?></title>
 		<meta charset="UTF-8" />
 		<!-- TODO: Remove robots meta tag when site is launched and meta data is prepared -->
 		<meta name="robots" content="noindex" />
-		<meta name="description" content="Ty Gwyn is a high quality three bedroom cottage based in Fishguard, a small market town in Pembrokeshire ideally located to explore this beautiful part of the United Kingdom." />
-		<meta name="keywords" content="ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals, 3 bedrooms" />
+		<meta name="description" content="<?=$meta_description;?>" />
+		<meta name="keywords" content="<?=$meta_keywords;?>" />
 		<meta name="author" content="Richard Toner - www.richardtoner.com" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link href="css/bootstrap.css" rel="stylesheet" media="screen" />

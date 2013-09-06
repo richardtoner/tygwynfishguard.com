@@ -1,4 +1,10 @@
-<?php include("partials/head.php"); ?>
+<?php
+// Page-specific meta data variables
+$page_title = "Contact Us | Ty Gwyn | Holiday Cottage in West Wales";
+$meta_description = "Want to make a booking enquiry or ask us a question? Want directions on how to find us? Here is where you do all of this! Get in contact now by email or phone.";
+$meta_keywords = "ty gwyn, fishguard, pembrokeshire, west wales, wales, accommodation, self-catered, holiday cottage, holiday rentals, 3 bedrooms, garden";
+include("partials/head.php"); 
+?>
 			<!-- Start page-specific content -->
 			<h2>Contact Us</h2>
 			<div class="row-fluid">

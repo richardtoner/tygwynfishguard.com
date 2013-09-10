@@ -34,7 +34,7 @@ include("partials/head.php");
 					<p class="lead">4 star grading from Visit Wales</p>
 					<p>
 						We have been recognised by 
-						<a title="Ty Gwyn listed on Visit Wales" href="http://www.visitwales.com/accommodation-search/accommodation-search-results/accommodation-search-details?id=1468338&location=Wales&industry=None&arrivalDate=12%2F07%2F2013+00%3A00%3A00&numberOfNights=1&numberOfRooms=1&numberOfAdults1=1&numberOfChildren1=0&numberOfAdults2=0&numberOfChildren2=0&numberOfAdults3=0&numberOfChildren3=0&radius=10&designators=&filterIds=&city=&price=&latitude=51.99263&longitude=-4.972877">Visit Wales</a> 
+						<a title="Ty Gwyn listed on Visit Wales" href="http://www.visitwales.com/accommodation-search/accommodation-search-results/accommodation-search-details?id=1468338&amp;location=Wales&amp;industry=None&amp;arrivalDate=12%2F07%2F2013+00%3A00%3A00&amp;numberOfNights=1&amp;numberOfRooms=1&amp;numberOfAdults1=1&amp;numberOfChildren1=0&amp;numberOfAdults2=0&amp;numberOfChildren2=0&amp;numberOfAdults3=0&amp;numberOfChildren3=0&amp;radius=10&amp;designators=&amp;filterIds=&amp;city=&amp;price=&amp;latitude=51.99263&amp;longitude=-4.972877">Visit Wales</a> 
 						as a self-catered accommodation of very high quality and awarded a 4 star rating.
 						Ty Gwyn has also been recognised as an ideal accommodation choice for walkers and cyclists.
 					</p>

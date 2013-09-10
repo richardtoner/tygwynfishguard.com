@@ -33,7 +33,7 @@ include("partials/head.php");
 					</ul>
 				</div>
 				<div class="span6">
-					<iframe width="100%" height="344" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hottipass+Street,+Fishguard,+SA65+9LJ&amp;aq=&amp;sll=51.926071,-4.993562&amp;sspn=0.205791,0.615921&amp;ie=UTF8&amp;hq=&amp;hnear=Hottipass+St&amp;t=m&amp;ll=51.992835,-4.971957&amp;spn=0.011099,0.019312&amp;z=15&amp;output=embed&amp;iwloc=near"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Hottipass+Street,+Fishguard,+SA65+9LJ&amp;aq=&amp;sll=51.926071,-4.993562&amp;sspn=0.205791,0.615921&amp;ie=UTF8&amp;hq=&amp;hnear=Hottipass+St&amp;t=m&amp;ll=51.992835,-4.971957&amp;spn=0.011099,0.019312&amp;z=15">View Larger Map</a></small>
+					<iframe id="google-map" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hottipass+Street,+Fishguard,+SA65+9LJ&amp;aq=&amp;sll=51.926071,-4.993562&amp;sspn=0.205791,0.615921&amp;ie=UTF8&amp;hq=&amp;hnear=Hottipass+St&amp;t=m&amp;ll=51.992835,-4.971957&amp;spn=0.011099,0.019312&amp;z=15&amp;output=embed&amp;iwloc=near"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Hottipass+Street,+Fishguard,+SA65+9LJ&amp;aq=&amp;sll=51.926071,-4.993562&amp;sspn=0.205791,0.615921&amp;ie=UTF8&amp;hq=&amp;hnear=Hottipass+St&amp;t=m&amp;ll=51.992835,-4.971957&amp;spn=0.011099,0.019312&amp;z=15">View Larger Map</a></small>
 				</div>
 			</div>
 			<!-- End page-specific content -->

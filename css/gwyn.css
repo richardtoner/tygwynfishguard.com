@@ -139,6 +139,12 @@ blockquote {
     background: none;
 }
 
+#google-map {
+	width: 100%;
+	border: none;
+	height: 344px;
+}
+
 /* CSS declarations for mobile-sized media screens */
 @media (max-width: 767px) {
 	.navbar {

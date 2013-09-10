@@ -18,7 +18,7 @@
 				include_once("partials/google-analytics.php"); 
 			}
 		?>
-	<head>
+	</head>
 	<body>
 		<div class="navbar navbar-fixed-top container">
 			<div class="visible-desktop phone">

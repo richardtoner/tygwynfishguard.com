@@ -54,25 +54,21 @@ include("partials/head.php");
 								<img alt="The bathroom of Ty Gwyn" class="img-rounded" src="assets/cottage/bathroom.jpg"/>
 							</a>
 						</div>
+						<h3>Utility Room</h3>
+						<p>Rear porch with Velux window, access to rear garden where there is a second upright fridge/freezer (useful for drinks), ironing board and iron.</p>
+						<h3>Additional Information</h3>
+						<p>Bed linen and tea towels are provided with the property. However, towels for personal use are not. There is a small selection of kitchen basics i.e. condiments also available for guests use.</p>
 					</div>
 					<div class="span6">
 						<h3>Garden</h3>
-						<p>The garden was a labour of love and took almost a year to create but is now a wonderful calm oasis - private, safe and sunny. Ideal for visitors with children. <span class="text-error">[More info about garden?]</span></p>
+						<p>The large private garden is a wonderful part of Ty Gwyn. From the stone terrace there are lovely views of Garn Fawr and the Preseli mountains to enjoy whilst drinking a morning coffee.</p>
 						<div class="gallery-image">
 							<a href="assets/cottage/garden_overview.jpg" title="The garden in the spring time - a safe and secluded sun trap.">
 								<img alt="View of Ty Gwyn's garden" class="img-rounded" src="assets/cottage/garden_overview.jpg"/>
 							</a>
 						</div>
-					</div>
-				</div>
-				<div class="row-fluid">
-					<div class="span6">
-						<h3>Utility Room</h3>
-						<p>Rear porch with Velux window, access to rear garden where there is a second upright fridge/freezer (useful for drinks), ironing board and iron.</p>
-					</div>
-					<div class="span6">
-						<h3>Additional Information</h3>
-						<p>Bed linen and tea towels are provided with the property. However, towels for personal use are not. There is a small selection of kitchen basics i.e. condiments also available for guests use.</p>
+						<br />
+						<p>The terrace also features an attractive log store and BBQ for alfresco dining. A few steps lead down to a large decked area with table and chairs (sunlounger in the shed) overlooking the sunken lawn which is ideal for children or sunbathing as it is completely private and safe. A concealed side gate allows bicycles to be brought into the back garden if need be which can be stored in either the rear porch or garden shed.</p>
 					</div>
 				</div>
 			</div>

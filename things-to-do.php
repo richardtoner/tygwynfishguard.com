@@ -12,13 +12,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/surfer_at_whitesands.jpg" title="Surfing at Whitesands Bay">
-							<img class="img-rounded" src="assets/welsh_tourism_board/surfer_at_whitesands.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/surfer_at_whitesands.jpg" alt="Surfer at Whitesands Bay in Pembrokeshire"/>
 						</a>
 						<h4>Surfing at Whitesands Bay</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/whitesands_bay.jpg" title="Whitesands Bay">
-							<img class="img-rounded" src="assets/welsh_tourism_board/whitesands_bay.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/whitesands_bay.jpg" alt="The award-winning Whitesands Bay in the glorious sun"/>
 						</a>
 						<h4>Whitesands Bay</h4>
 					</div>
@@ -26,13 +26,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/st_davids_cathedral.jpg" title="St David's Cathedral">
-							<img class="img-rounded" src="assets/welsh_tourism_board/st_davids_cathedral.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/st_davids_cathedral.jpg" alt="St David's Cathedral in Pembrokeshire"/>
 						</a>
 						<h4>St David's Cathedral</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/whitesands_bay_sunset.jpg" title="Sunset at Whitesands Bay">
-							<img class="img-rounded" src="assets/welsh_tourism_board/whitesands_bay_sunset.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/whitesands_bay_sunset.jpg" alt="Sunset at Whitesands Bay in Pembrokeshire"/>
 						</a>
 						<h4>Sunset at Whitesands Bay</h4>
 					</div>
@@ -46,13 +46,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/children_playing_on_beach.jpg" title="Children Playing on the Beach">
-							<img class="img-rounded" src="assets/welsh_tourism_board/children_playing_on_beach.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/children_playing_on_beach.jpg" alt="Children playing on the beach in Pembrokeshire"/>
 						</a>
 						<h4>Children Playing on the Beach</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/cyclists_at_porthgain.jpg" title="Cyclists at Porthgain">
-							<img class="img-rounded" src="assets/welsh_tourism_board/cyclists_at_porthgain.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/cyclists_at_porthgain.jpg" alt="Cyclists at Porthgain in Pembrokeshire"/>
 						</a>
 						<h4>Cyclists at Porthgain</h4>
 					</div>
@@ -60,13 +60,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/oakwood_pirate_ship.jpg" title="The Pirate Ship at Oakwood Theme Park">
-							<img class="img-rounded" src="assets/welsh_tourism_board/oakwood_pirate_ship.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/oakwood_pirate_ship.jpg" alt="The Pirate Ship ride at Oakwood Theme Park in Pembrokeshire"/>
 						</a>
 						<h4>Pirate Ship at Oakwood Theme Park</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/oakwood_drenched.jpg" title="Drenched at Oakwood Theme Park">
-							<img class="img-rounded" src="assets/welsh_tourism_board/oakwood_drenched.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/oakwood_drenched.jpg" alt="Drenched water ride at Oakwood Theme Park in Pembrokeshire"/>
 						</a>
 						<h4>Drenched at Oakwood Theme Park</h4>
 					</div>
@@ -80,13 +80,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/strumble_head_lighthouse.jpg" title="Strumble Head Lighthouse">
-							<img class="img-rounded" src="assets/welsh_tourism_board/strumble_head_lighthouse.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/strumble_head_lighthouse.jpg" alt="Strumble Head Lighthouse in Pembrokeshire"/>
 						</a>
 						<h4>Strumble Head Lighthouse</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/coasteering_blue_lagoon.jpg" title="Coasteerers off to the Blue Lagoon">
-							<img class="img-rounded" src="assets/welsh_tourism_board/coasteering_blue_lagoon.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/coasteering_blue_lagoon.jpg" alt="Coasteerers walking to the Blue Lagoon in Pembrokeshire"/>
 						</a>
 						<h4>Coasteerers off to the Blue Lagoon</h4>
 					</div>
@@ -94,13 +94,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/golfing_pembrokeshire.jpg" title="Golfing in Pembrokeshire">
-							<img class="img-rounded" src="assets/welsh_tourism_board/golfing_pembrokeshire.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/golfing_pembrokeshire.jpg" alt="Golfing in Pembrokeshire"/>
 						</a>
 						<h4>Golfing in Pembrokeshire</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/walkers_on_the_pembrokeshire_coast_path.jpg" title="Walkers on the Coastal Path">
-							<img class="img-rounded" src="assets/welsh_tourism_board/walkers_on_the_pembrokeshire_coast_path.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/walkers_on_the_pembrokeshire_coast_path.jpg" alt="Walkers on the Pembrokeshire coastal path"/>
 						</a>
 						<h4>Walkers on the Pembrokeshire Coastal Path</h4>
 					</div>
@@ -114,13 +114,13 @@ include("partials/head.php");
 				<div class="row-fluid">
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/fishguard_harbour.jpg" title="Fishguard Harbour">
-							<img class="img-rounded" src="assets/welsh_tourism_board/fishguard_harbour.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/fishguard_harbour.jpg" alt="Boats moored at Fishguard harbour in Pembrokeshire"/>
 						</a>
 						<h4>Fishguard Harbour</h4>
 					</div>
 					<div class="span6 gallery-image">
 						<a href="assets/welsh_tourism_board/blue_lagoon_abereiddy.jpg" title="The Blue Lagoon at Abereiddy">
-							<img class="img-rounded" src="assets/welsh_tourism_board/blue_lagoon_abereiddy.jpg"/>
+							<img class="img-rounded" src="assets/welsh_tourism_board/blue_lagoon_abereiddy.jpg" alt="The blue lagoon in Abereiddy, Pembrokeshire"/>
 						</a>
 						<h4>The Blue Lagoon at Abereiddy</h4>
 					</div>

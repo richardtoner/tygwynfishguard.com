@@ -14,7 +14,7 @@
 		<link href="css/blueimp-gallery.min.css" rel="stylesheet" media="screen" />
 		<link href="css/gwyn.css" rel="stylesheet" media="screen" />
 		<?php 
-			if ($_SERVER['HTTP_HOST'] == 'tygwynfishguard.com') {
+			if ($_SERVER['HTTP_HOST'] == 'www.tygwynfishguard.com') {
 				include_once("partials/google-analytics.php"); 
 			}
 		?>

@@ -3,8 +3,6 @@
 	<head>
 		<title><?=$page_title;?></title>
 		<meta charset="UTF-8" />
-		<!-- TODO: Remove robots meta tag when site is launched and meta data is prepared -->
-		<meta name="robots" content="noindex" />
 		<meta name="description" content="<?=$meta_description;?>" />
 		<meta name="keywords" content="<?=$meta_keywords;?>" />
 		<meta name="author" content="Richard Toner - www.richardtoner.com" />

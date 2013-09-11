@@ -22,7 +22,7 @@ include("partials/head.php");
 					<p>Alternatively, you can check our availability and make a booking on the following websites:</p>
 					<ul>
 						<li>
-							<a title="Ty Gwyn listed on Owners Direct" href="http://www.ownersdirect.co.uk/walesb/W964.htm">Owners Direct</a>
+							<a title="Ty Gwyn listed on Owners Direct" href="http://www.ownersdirect.co.uk/wales/W964.htm">Owners Direct</a>
 						</li>
 						<li>
 							<a title="Ty Gwyn listed on Holiday Lettings" href="http://www.holidaylettings.co.uk/rentals/fishguard/545122">Holiday Lettings</a>

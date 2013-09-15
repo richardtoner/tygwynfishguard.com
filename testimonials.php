@@ -12,12 +12,12 @@ include("partials/head.php");
 				array("comments"=>"A great base for discovering this wonderful part of the country.","author"=>"The T family, Cornwall"),
 				array("comments"=>"Had a lovely time. The house is a ‘home away from home’. Peaceful surroundings.","author"=>"The P, K and C families, Southampton"),
 				array("comments"=>"A cosy and well equipped nest for a lovely relaxing break!","author"=>"Louise and David, Trowbridge, Wilts"),
-				array("comments"=>"Lovely cottage, we will be making a return visit.","author"=>"M and T, Pemblebury, Trelogan"),
+				//array("comments"=>"Lovely cottage, we will be making a return visit.","author"=>"M and T, Pemblebury, Trelogan"),
 				array("comments"=>"What a find! We have been coming to Pembrokeshire for years but this is the best cottage yet. Will definitely be returning.","author"=>"The Jones family, Port Talbot"),
 				array("comments"=>"Absolutely wonderful cottage. Everything was just perfect. Good base to go exploring different places. Will definitely be back. Very, very impressed with everything – amazing!","author"=>"C and D, Cwmbran, Gwent"),
 				array("comments"=>"This is the second time for us to stay in Ty Gwyn over the last six months. Can’t wait for the 3rd! We love it!","author"=>"The Jones family, Port Talbot"),
 				array("comments"=>"Really enjoyed our stay – felt at home from the moment we arrived – thank you!","author"=>"The B family, St Helens, Merseyside."),
-				array("comments"=>"We really love your cottage and we were surprised when we got here because the website doesn’t do it justice. We had everything we need and more. I know a lot of thought went into preparing the cottage to make us feel welcome. Thank you for a lovely stay.","author"=>"K, S, E and R – Buxton, Derbyshire"),
+				//array("comments"=>"We really love your cottage and we were surprised when we got here because the website doesn’t do it justice. We had everything we need and more. I know a lot of thought went into preparing the cottage to make us feel welcome. Thank you for a lovely stay.","author"=>"K, S, E and R – Buxton, Derbyshire"),
 				array("comments"=>"Gorgeous cottage, very well equipped. Lovely coastal walks and plenty to do in the sea. We’ve had a fantastic time!","author"=>"V and A, Manchester. J an A, London"),
 				array("comments"=>"Cottage is beautiful. Had some lovely walks and enjoyed relaxing in the big back garden. 10 out of 10.","author"=>"The Davies family, Caerphilly"),
 				array("comments"=>"Our first visit to Pembrokeshire. From this lovely cottage we did a lot! Swimming, cycling, walking, coasteering, boat trip, wildlife etc etc. Every day an outdoor adventure and lovely evenings, with cosy Ty Gwyn to come back to.","author"=>"The Jackson and Wheatle families, Kendal, Cumbria"),
@@ -27,7 +27,7 @@ include("partials/head.php");
 			<div class="row-fluid">
 				<div class="span6">
 					<p class="lead">Want to know what our guests think of Ty Gwyn?</p>
-					<p>Our guestbook is a treasure trove of lovely comments and praise for our cottage. We've included a few of our favourites on this page to share with you.</p>
+					<p>Our guestbook is a treasure trove of lovely comments and praise for our cottage. We've included a few of our favourites on this page to share with you (including a tweet from a certain Welsh rugby hero of ours)...</p>
 					<hr />
 					<img title="Fire up the woodburner and relax with a glass of red wine for a perfect Winter's evening!" alt="A bottle of Campo Viejo and a wine glass" class="img-rounded" src="assets/cottage/wine_closeup.jpg" />
 					<hr />
@@ -59,6 +59,8 @@ include("partials/head.php");
 					</ul>
 				</div>
 				<div class="span6">
+					<blockquote class="twitter-tweet"><p>Stayed at the lovely <a href="http://t.co/tarAHQu8XJ">http://t.co/tarAHQu8XJ</a> too - awesome spot!!</p>&mdash; Jamie Roberts (@Jamiehuwroberts)     <a href="https://twitter.com/Jamiehuwroberts/statuses/378230682600091648">September 12, 2013</a></blockquote>
+					<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 					<?php
 					foreach ($testimonials as $testimonial):
 					?>

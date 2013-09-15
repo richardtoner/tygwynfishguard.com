@@ -145,6 +145,10 @@ blockquote {
 	height: 344px;
 }
 
+.twitter-tweet {
+	margin: 0 0 30px !important;
+}
+
 /* CSS declarations for mobile-sized media screens */
 @media (max-width: 767px) {
 	.navbar {

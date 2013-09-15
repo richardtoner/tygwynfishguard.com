@@ -89,7 +89,7 @@ include("partials/head.php");
 								<td>3</td>
 							</tr>
 							<tr>
-								<td>20 December 2014 - 2 January 2014</td>
+								<td>20 December 2014 - 2 January 2015</td>
 								<td>GBP 595.00</td>
 								<td>7</td>
 							</tr>

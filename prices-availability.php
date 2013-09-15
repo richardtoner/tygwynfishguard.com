@@ -19,11 +19,6 @@ include("partials/head.php");
 						</thead>
 						<tbody>
 							<tr>
-								<td>20 July 2013 - 6 September 2013</td>
-								<td>GBP 595.00</td>
-								<td>7</td>
-							</tr>
-							<tr>
 								<td>7 September 2013 - 1 November 2013</td>
 								<td>GBP 420.00</td>
 								<td>3</td>
@@ -35,6 +30,66 @@ include("partials/head.php");
 							</tr>
 							<tr>
 								<td>21 December 2013 - 3 January 2014</td>
+								<td>GBP 595.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>4 January 2014 - 21 February 2014</td>
+								<td>GBP 350.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>22 February 2014 - 28 February 2014</td>
+								<td>GBP 495.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>1 March 2014 - 11 April 2014</td>
+								<td>GBP 350.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>12 April 2014 - 25 April 2014</td>
+								<td>GBP 495.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>26 April 2014 - 23 May 2014</td>
+								<td>GBP 420.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>24 May 2014 - 30 May 2014</td>
+								<td>GBP 495.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>31 May 2014 - 18 July 2014</td>
+								<td>GBP 525.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>19 July 2014 - 5 September 2014</td>
+								<td>GBP 595.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>6 September 2014 - 24 October 2014</td>
+								<td>GBP 420.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>25 October 2014 - 31 October 2014</td>
+								<td>GBP 495.00</td>
+								<td>7</td>
+							</tr>
+							<tr>
+								<td>1 November 2014 - 19 December 2014</td>
+								<td>GBP 350.00</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>20 December 2014 - 2 January 2014</td>
 								<td>GBP 595.00</td>
 								<td>7</td>
 							</tr>

@@ -19,57 +19,7 @@ include("partials/head.php");
 						</thead>
 						<tbody>
 							<tr>
-								<td>7 September 2013 - 1 November 2013</td>
-								<td>GBP 420.00</td>
-								<td>3</td>
-							</tr>
-							<tr>
-								<td>2 November 2013 - 20 December 2013</td>
-								<td>GBP 350.00</td>
-								<td>3</td>
-							</tr>
-							<tr>
-								<td>21 December 2013 - 3 January 2014</td>
-								<td>GBP 595.00</td>
-								<td>7</td>
-							</tr>
-							<tr>
-								<td>4 January 2014 - 21 February 2014</td>
-								<td>GBP 350.00</td>
-								<td>3</td>
-							</tr>
-							<tr>
-								<td>22 February 2014 - 28 February 2014</td>
-								<td>GBP 495.00</td>
-								<td>7</td>
-							</tr>
-							<tr>
-								<td>1 March 2014 - 11 April 2014</td>
-								<td>GBP 350.00</td>
-								<td>3</td>
-							</tr>
-							<tr>
-								<td>12 April 2014 - 25 April 2014</td>
-								<td>GBP 495.00</td>
-								<td>7</td>
-							</tr>
-							<tr>
-								<td>26 April 2014 - 23 May 2014</td>
-								<td>GBP 420.00</td>
-								<td>3</td>
-							</tr>
-							<tr>
-								<td>24 May 2014 - 30 May 2014</td>
-								<td>GBP 495.00</td>
-								<td>7</td>
-							</tr>
-							<tr>
-								<td>31 May 2014 - 18 July 2014</td>
-								<td>GBP 525.00</td>
-								<td>3</td>
-							</tr>
-							<tr>
-								<td>19 July 2014 - 5 September 2014</td>
+								<td>19 July 2014 - 5 September 2014 (Summer Holidays)</td>
 								<td>GBP 595.00</td>
 								<td>7</td>
 							</tr>
@@ -79,7 +29,7 @@ include("partials/head.php");
 								<td>3</td>
 							</tr>
 							<tr>
-								<td>25 October 2014 - 31 October 2014</td>
+								<td>25 October 2014 - 31 October 2014 (Half Term)</td>
 								<td>GBP 495.00</td>
 								<td>7</td>
 							</tr>
@@ -89,10 +39,80 @@ include("partials/head.php");
 								<td>3</td>
 							</tr>
 							<tr>
-								<td>20 December 2014 - 2 January 2015</td>
+								<td>20 December 2014 - 2 January 2015 (Christmas and New Year)</td>
 								<td>GBP 595.00</td>
 								<td>7</td>
 							</tr>
+                            <tr>
+                                <td>3 January 2015 – 13 February 2015</td>
+                                <td>GBP 395.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>14 February 2015 – 20 February 2015 (Half Term)</td>
+                                <td>GBP 545.00</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>21 February 2015 – 27 March 2015</td>
+                                <td>GBP 425.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>28 March 2015 – 10 April 2015 (Easter)</td>
+                                <td>GBP 545.00</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>11 April 2015 – 1 May 2015</td>
+                                <td>GBP 465.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>2 May 2015 – 8 May 2015 (May Day Bank Holiday)</td>
+                                <td>GBP 545.00</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>9 May 2015 – 22 May 2015</td>
+                                <td>GBP 495.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>23rd May 2015 – 29 May 2015 (Spring Bank Holiday)</td>
+                                <td>GBP 595.00</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>30 May 2015 – 17 July 2015</td>
+                                <td>GBP 565.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>18 July 2015 – 4 September 2015 (Summer Holidays)</td>
+                                <td>GBP 695.00</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>5 September 2015 – 23rd October 2015</td>
+                                <td>GBP 525.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>24 October 2015 – 30 October 2015 (Half Term)</td>
+                                <td>GBP 545.00</td>
+                                <td>7</td>
+                            </tr>
+                            <tr>
+                                <td>31 October 2015 – 18 December 2015</td>
+                                <td>GBP 395.00</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>19 December 2015 – 2 January 2016 (Christmas and New Year)</td>
+                                <td>GBP 645.00</td>
+                                <td>7</td>
+                            </tr>
 						</tbody>
 					</table>
 					<p>To check availability please contact the owner using the information provided below:</p>
